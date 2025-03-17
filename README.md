@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 🔭 About Me
-- 🔭 I’m currently working on Message middleware R&D Intern of @XiaoMi
+- 🔭 I once worked as a message-oriented middleware intern at Xiaomi
 - 🌱 I’m currently learning rocketmq and flink
 - 🌱 Contact me......
