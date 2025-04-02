@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 🔭 About Me
-- 🌱 I’m currently learning rocketmq and flink
+- 🌱 I’m currently learning mq and flink
 - 🌱 Contact me......
